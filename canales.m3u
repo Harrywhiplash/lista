@@ -1,0 +1,284 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="ESPN2.mx" group-title="Channels",ESPN 2
+http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",AD SPORT 1 HD www.achoAPPS.com
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="Channels",AD SPORT 2 HD www.achoAPPS.com
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+
+#EXTINF:-1 tvg-id="TNT.sp" group-title="Channels",TNT
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
+
+#EXTINF:-1 tvg-id="Space.br" group-title="Channels",Space
+http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/index.m3u8
+
+#EXTINF:-1 tvg-id="Golden.mx" group-title="Channels",Golden
+http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.uk" group-title="Channels",ESPN HD www.achoAPPS.com
+http://80.80.160.168/live/6/live.m3u8
+
+#EXTINF:-1 tvg-id="SkySports16.mx" tvg-name="Sky Sports 16 (720)" tvg-logo="https://1.bp.blogspot.com/-RLh5FLdJhrY/X2j2zkoZV1I/AAAAAAAABZA/CSpzrOeYoAcKxcdbPgNAFsSXhaeirAD3wCLcBGAsYHQ/w200-h200/SKY.png" group-title="DEPORTES",Sky Sports 16 (720)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=60372
+
+#EXTINF:-1 tvg-id="SkySports1.mx" tvg-name="Sky Sports 21 (720)" tvg-logo="https://1.bp.blogspot.com/-RLh5FLdJhrY/X2j2zkoZV1I/AAAAAAAABZA/CSpzrOeYoAcKxcdbPgNAFsSXhaeirAD3wCLcBGAsYHQ/w200-h200/SKY.png" group-title="DEPORTES",Sky Sports 21 (720)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=60373
+
+#EXTINF:-1 tvg-id="" tvg-name="Solidaria TV (720)" tvg-logo="https://1.bp.blogspot.com/-bcRHg4syz2M/X2Oa5OV0YLI/AAAAAAAABQ4/RB9IeJHldncC9NeWLuQ0a0fSZJrj00KkACLcBGAsYHQ/w200-h200/04%2Bsolidaria.png" group-title="RELIGIOSOS",Solidaria TV (720)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=53788
+
+#EXTINF:-1 tvg-id="ESPNPlus.ar" tvg-name="ARG Espn + (1080)" tvg-logo="https://1.bp.blogspot.com/-W6E6ZYNxtIg/Xay_ajYDpiI/AAAAAAAAAkg/49gGaM98NZ0m67_qvZeiy1kWIsGAhH0xACLcBGAsYHQ/s200/8.png" group-title="DEPORTES",ARG Espn + (1080)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=973
+
+#EXTINF:-1 tvg-id="ESPNPlus.ar" tvg-name="ARG Espn + (720)" tvg-logo="https://1.bp.blogspot.com/-W6E6ZYNxtIg/Xay_ajYDpiI/AAAAAAAAAkg/49gGaM98NZ0m67_qvZeiy1kWIsGAhH0xACLcBGAsYHQ/s200/8.png" group-title="DEPORTES",ARG Espn + (720)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=974
+
+#EXTINF:-1 tvg-id="ESPNPlus.ar" tvg-name="ARG Espn + (1080)" tvg-logo="https://1.bp.blogspot.com/-W6E6ZYNxtIg/Xay_ajYDpiI/AAAAAAAAAkg/49gGaM98NZ0m67_qvZeiy1kWIsGAhH0xACLcBGAsYHQ/s200/8.png" group-title="DEPORTES",ARG Espn + (1080)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=1543
+
+#EXTINF:-1 tvg-id="ESPN.co" tvg-name="ARG Espn 1 (1080)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="DEPORTES",ARG Espn 1 (1080)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=964
+
+#EXTINF:-1 tvg-id="ESPN.co" tvg-name="ARG Espn 1 (720)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="DEPORTES",ARG Espn 1 (720)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=965
+
+#EXTINF:-1 tvg-id="ESPN.co" tvg-name="ARG Espn 1 (SD)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="DEPORTES",ARG Espn 1 (SD)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=966
+
+#EXTINF:-1 tvg-id="ESPN2.co" tvg-name="ARG Espn 2 (1080)" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" group-title="DEPORTES",ARG Espn 2 (1080)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=967
+
+#EXTINF:-1 tvg-id="ESPN2.co" tvg-name="ARG Espn 2 (720)" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" group-title="DEPORTES",ARG Espn 2 (720)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=968
+
+#EXTINF:-1 tvg-id="ESPN2.co" tvg-name="ARG Espn 2 (SD)" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" group-title="DEPORTES",ARG Espn 2 (SD)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=969
+
+#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ARG Espn 2 (1080)" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" group-title="DEPORTES",ARG Espn 2 (1080)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=1541
+
+#EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="ARG Espn 3 (1080)" tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png" group-title="DEPORTES",ARG Espn 3 (1080)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=1542
+
+#EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="DEPORTES -ARG Espn 3 (1080)" tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png" group-title="DEPORTES",DEPORTES -ARG Espn 3 (1080)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=63209
+
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="ARG Fox Sports 1 (1080)" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png" group-title="DEPORTES",ARG Fox Sports 1 (1080)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=975
+
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="ARG Fox Sports 1 (720)" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png" group-title="DEPORTES",ARG Fox Sports 1 (720)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=976
+
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="ARG Fox Sports 1 (SD)" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png" group-title="DEPORTES",ARG Fox Sports 1 (SD)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=977
+
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="ARG Fox Sports 1 (1080)" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png" group-title="DEPORTES",ARG Fox Sports 1 (1080)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=1525
+
+#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="ARG Fox Sports 2 (1080)" tvg-logo="https://1.bp.blogspot.com/-F55EXTlQLLM/Xay_ZKpzh-I/AAAAAAAAAkI/aj1P5U_FLxUX17xtYY5q-J8ujgfiaG1ZACLcBGAsYHQ/s200/2.png" group-title="DEPORTES",ARG Fox Sports 2 (1080)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=978
+
+#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="ARG Fox Sports 2 (720)" tvg-logo="https://1.bp.blogspot.com/-F55EXTlQLLM/Xay_ZKpzh-I/AAAAAAAAAkI/aj1P5U_FLxUX17xtYY5q-J8ujgfiaG1ZACLcBGAsYHQ/s200/2.png" group-title="DEPORTES",ARG Fox Sports 2 (720)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=979
+
+#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="ARG Fox Sports 2 (SD)" tvg-logo="https://1.bp.blogspot.com/-F55EXTlQLLM/Xay_ZKpzh-I/AAAAAAAAAkI/aj1P5U_FLxUX17xtYY5q-J8ujgfiaG1ZACLcBGAsYHQ/s200/2.png" group-title="DEPORTES",ARG Fox Sports 2 (SD)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=980
+
+#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="ARG Fox Sports 2 (1080)" tvg-logo="https://1.bp.blogspot.com/-F55EXTlQLLM/Xay_ZKpzh-I/AAAAAAAAAkI/aj1P5U_FLxUX17xtYY5q-J8ujgfiaG1ZACLcBGAsYHQ/s200/2.png" group-title="DEPORTES",ARG Fox Sports 2 (1080)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=1526
+
+#EXTINF:-1 tvg-id="FoxSports3.ar" tvg-name="ARG Fox Sports 3 (1080)" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png" group-title="DEPORTES",ARG Fox Sports 3 (1080)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=981
+
+#EXTINF:-1 tvg-id="FoxSports3.ar" tvg-name="ARG Fox Sports 3 (720)" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png" group-title="DEPORTES",ARG Fox Sports 3 (720)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=982
+
+#EXTINF:-1 tvg-id="FoxSports3.ar" tvg-name="ARG Fox Sports 3 (SD)" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png" group-title="DEPORTES",ARG Fox Sports 3 (SD)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=63210
+
+#EXTINF:-1 tvg-id="FoxSports3.ar" tvg-name="ARG Fox Sports 3 (1080)" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png" group-title="DEPORTES",ARG Fox Sports 3 (1080)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=1527
+
+#EXTINF:-1 tvg-id="FoxSportsPremium.ar" tvg-name="ARG Fox Sports Premium (1080)" tvg-logo="https://1.bp.blogspot.com/-Y_N3VABdVF4/Xay_YYbfoSI/AAAAAAAAAj8/D-gsleVUxQc3V27-hHor1lopCPZeORCDgCLcBGAsYHQ/s200/15.png" group-title="DEPORTES",ARG Fox Sports Premium (1080)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=1528
+
+#EXTINF:-1 tvg-id="FoxSportsPremium.ar" tvg-name="ARG Fox Sports Premium (SD)" tvg-logo="https://1.bp.blogspot.com/-Y_N3VABdVF4/Xay_YYbfoSI/AAAAAAAAAj8/D-gsleVUxQc3V27-hHor1lopCPZeORCDgCLcBGAsYHQ/s200/15.png" group-title="DEPORTES",ARG Fox Sports Premium (SD)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=1529
+
+#EXTINF:-1 tvg-id="TYCSports.ar" tvg-name="ARG TyC Sports (720)" tvg-logo="https://1.bp.blogspot.com/-clt7G_R4DNw/Xg-MJOM_YMI/AAAAAAAAA6A/ulOuWvu97K0QvGGyHNHcANUkSMGPeRLGQCLcBGAsYHQ/s200/23.png" group-title="DEPORTES",ARG TyC Sports (720)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=2076
+
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="Bein Sport U (720)" tvg-logo="https://1.bp.blogspot.com/-bwERD1EYUso/XjHTaAko5tI/AAAAAAAAA-M/MpTKAtCF0rUt9cvpn-Chpk3PKth9aEWJwCLcBGAsYHQ/s200/33.png" group-title="DEPORTES",Bein Sport U (720)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=2876
+
+#EXTINF:-1 tvg-id="beINSportsLaLiga.us" tvg-name="beIN Sports U (720)" tvg-logo="https://1.bp.blogspot.com/-bwERD1EYUso/XjHTaAko5tI/AAAAAAAAA-M/MpTKAtCF0rUt9cvpn-Chpk3PKth9aEWJwCLcBGAsYHQ/s200/33.png" group-title="DEPORTES",beIN Sports U (720)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=59426
+
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="Bein Sports Ñ (720)" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="DEPORTES",Bein Sports Ñ (720)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=59788
+
+#EXTINF:-1 tvg-id="beINSportsEnEspanol.us" tvg-name="Bein Sports Ñ (720)" tvg-logo="https://1.bp.blogspot.com/-T4UnDWGyhb0/Xay_YgqwzVI/AAAAAAAAAkE/mta3F4p2leUOXJzzGQQWIW0Jjxw2uLYHACLcBGAsYHQ/s200/17.png" group-title="DEPORTES",Bein Sports Ñ (720)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=2872
+
+#EXTINF:-1 tvg-id="DirectvSportsPlus.co" tvg-name="Directv Sports + (1080)" tvg-logo="https://1.bp.blogspot.com/-WZoevRCibrQ/XazFPI2G7nI/AAAAAAAAAlQ/Tm2GHOyjZuIjYxYN8ynbjF34iTCRQZzSQCLcBGAsYHQ/s200/18.png" group-title="DEPORTES",Directv Sports + (1080)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=962
+
+#EXTINF:-1 tvg-id="DirectvSportsPlus.co" tvg-name="Directv Sports + (720)" tvg-logo="https://1.bp.blogspot.com/-WZoevRCibrQ/XazFPI2G7nI/AAAAAAAAAlQ/Tm2GHOyjZuIjYxYN8ynbjF34iTCRQZzSQCLcBGAsYHQ/s200/18.png" group-title="DEPORTES",Directv Sports + (720)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=963
+
+#EXTINF:-1 tvg-id="613DTSPlus.ar" tvg-name="Directv Sports + (SD)" tvg-logo="https://1.bp.blogspot.com/-WZoevRCibrQ/XazFPI2G7nI/AAAAAAAAAlQ/Tm2GHOyjZuIjYxYN8ynbjF34iTCRQZzSQCLcBGAsYHQ/s200/18.png" group-title="DEPORTES",Directv Sports + (SD)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=20143
+
+#EXTINF:-1 tvg-id="613DTSPlus.ar" tvg-name="Directv Sports + " tvg-logo="https://1.bp.blogspot.com/-WZoevRCibrQ/XazFPI2G7nI/AAAAAAAAAlQ/Tm2GHOyjZuIjYxYN8ynbjF34iTCRQZzSQCLcBGAsYHQ/s200/18.png" group-title="DEPORTES",Directv Sports + 
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=4673
+
+#EXTINF:-1 tvg-id="DirectvSportsPlus.co" tvg-name="Directv Sports + (1080)" tvg-logo="https://1.bp.blogspot.com/-WZoevRCibrQ/XazFPI2G7nI/AAAAAAAAAlQ/Tm2GHOyjZuIjYxYN8ynbjF34iTCRQZzSQCLcBGAsYHQ/s200/18.png" group-title="DEPORTES",Directv Sports + (1080)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=4674
+
+#EXTINF:-1 tvg-id="DirecTVSports610.ec" tvg-name="Directv Sports 1 (1080)" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png" group-title="DEPORTES",Directv Sports 1 (1080)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=955
+
+#EXTINF:-1 tvg-id="DirecTVSports610.ec" tvg-name="Directv Sports 1 (720)" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png" group-title="DEPORTES",Directv Sports 1 (720)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=956
+
+#EXTINF:-1 tvg-id="DirecTVSports610.ec" tvg-name="Directv Sports 1 (SD)" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png" group-title="DEPORTES",Directv Sports 1 (SD)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=957
+
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="Directv Sports 1 (1080)" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png" group-title="DEPORTES",Directv Sports 1 (1080)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=4668
+
+
+#EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="Directv Sports 2 (1080)" tvg-logo="https://1.bp.blogspot.com/-f5u2OnKyA8A/XazFPWIst9I/AAAAAAAAAlU/H15BTBiKOu4UhFg3Js1-NMLwNcx_HCC9QCLcBGAsYHQ/s200/20.png" group-title="DEPORTES",Directv Sports 2 (1080)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=959
+
+#EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="Directv Sports 2 (720)" tvg-logo="https://1.bp.blogspot.com/-f5u2OnKyA8A/XazFPWIst9I/AAAAAAAAAlU/H15BTBiKOu4UhFg3Js1-NMLwNcx_HCC9QCLcBGAsYHQ/s200/20.png" group-title="DEPORTES",Directv Sports 2 (720)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=960
+
+#EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="Directv Sports 2 (SD)" tvg-logo="https://1.bp.blogspot.com/-f5u2OnKyA8A/XazFPWIst9I/AAAAAAAAAlU/H15BTBiKOu4UhFg3Js1-NMLwNcx_HCC9QCLcBGAsYHQ/s200/20.png" group-title="DEPORTES",Directv Sports 2 (SD)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=961
+
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="Directv Sports 2 " tvg-logo="https://1.bp.blogspot.com/-f5u2OnKyA8A/XazFPWIst9I/AAAAAAAAAlU/H15BTBiKOu4UhFg3Js1-NMLwNcx_HCC9QCLcBGAsYHQ/s200/20.png" group-title="DEPORTES",Directv Sports 2 
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=4672
+
+#EXTINF:-1 tvg-id="DirectvSports2.co" tvg-name="Directv Sports 2 (SD)" tvg-logo="https://1.bp.blogspot.com/-f5u2OnKyA8A/XazFPWIst9I/AAAAAAAAAlU/H15BTBiKOu4UhFg3Js1-NMLwNcx_HCC9QCLcBGAsYHQ/s200/20.png" group-title="DEPORTES",Directv Sports 2 (SD)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=4671
+
+#EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-name="Espn Deportes (SD)" tvg-logo="https://1.bp.blogspot.com/-vSV4gemywH8/Xay_akC3pjI/AAAAAAAAAkk/QhiScGYRuK0gmoHsOkqUAy5v1AijHvCwgCLcBGAsYHQ/s200/9.png" group-title="DEPORTES",Espn Deportes (SD)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=1544
+
+#EXTINF:-1 tvg-id="FoxDeportes.us" tvg-name="Fox Deportes (SD)" tvg-logo="https://1.bp.blogspot.com/-ZrLBW7y8kKE/Xay_YpKJ9bI/AAAAAAAAAkA/-UNQCYuie0glvhjIFsMXPDS6qVX5QlsCwCLcBGAsYHQ/s200/16.png" group-title="DEPORTES",Fox Deportes (SD)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=1524
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight BOX U (1080)" tvg-logo="https://1.bp.blogspot.com/-trZC8_-fPrc/X2kBptXt-QI/AAAAAAAABZY/ebjwHb5BxW4LLF_iJltMKJ-mVQHv4gqbgCLcBGAsYHQ/w200-h200/Fight%2Bbox.png" group-title="DEPORTES",Fight BOX U (1080)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=60375
+
+#EXTINF:-1 tvg-id="GolfChannel.mx" tvg-name="Golf Latin America (SD)" tvg-logo="https://1.bp.blogspot.com/-bnHcR36sEwk/XmzurT8VcYI/AAAAAAAABac/WuIdPohEzLU9o2C4V0_UB2_CpO72CjfQACLcBGAsYHQ/s200/35.png" group-title="DEPORTES",Golf Latin America (SD)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=26767
+
+#EXTINF:-1 tvg-id="" tvg-name="MEX Afizzionados (720)" tvg-logo="https://1.bp.blogspot.com/-9q6PqMJgbL8/XyJA1AIVgoI/AAAAAAAAAkA/2JqmEauHFoo_eEoK3db9gq3dTaC-cKihACLcBGAsYHQ/w200-h200/affi.png" group-title="DEPORTES",MEX Afizzionados (720)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=54813
+
+#EXTINF:-1 tvg-id="ESPNLatin.mx" tvg-name="MEX ESPN (1080)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="DEPORTES",MEX ESPN (1080)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=26817
+
+#EXTINF:-1 tvg-id="ESPNLatin.mx" tvg-name="MEX Espn (1080)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="DEPORTES",MEX Espn (1080)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=1533
+
+#EXTINF:-1 tvg-id="ESPNplus.mx" tvg-name="MEX ESPN + (720)1" tvg-logo="https://1.bp.blogspot.com/-W6E6ZYNxtIg/Xay_ajYDpiI/AAAAAAAAAkg/49gGaM98NZ0m67_qvZeiy1kWIsGAhH0xACLcBGAsYHQ/s200/8.png" group-title="DEPORTES",MEX ESPN + (720)1
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=63211
+
+#EXTINF:-1 tvg-id="ESPNplus.mx" tvg-name="MEX ESPN + (1080)" tvg-logo="https://1.bp.blogspot.com/-W6E6ZYNxtIg/Xay_ajYDpiI/AAAAAAAAAkg/49gGaM98NZ0m67_qvZeiy1kWIsGAhH0xACLcBGAsYHQ/s200/8.png" group-title="DEPORTES",MEX ESPN + (1080)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=26810
+
+#EXTINF:-1 tvg-id="ESPNplus.mx" tvg-name="MEX Espn + (SD)" tvg-logo="https://1.bp.blogspot.com/-W6E6ZYNxtIg/Xay_ajYDpiI/AAAAAAAAAkg/49gGaM98NZ0m67_qvZeiy1kWIsGAhH0xACLcBGAsYHQ/s200/8.png" group-title="DEPORTES",MEX Espn + (SD)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=1539
+
+#EXTINF:-1 tvg-id="ESPNLatin.mx" tvg-name="MEX ESPN (720)1" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="DEPORTES",MEX ESPN (720)1
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=1900
+
+#EXTINF:-1 tvg-id="Espn2.mx" tvg-name="MEX ESPN 2 (720)1" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" group-title="DEPORTES",MEX ESPN 2 (720)1
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=1899
+
+#EXTINF:-1 tvg-id="Espn2.mx" tvg-name="MEX Espn 2 (1080)" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" group-title="DEPORTES",MEX Espn 2 (1080)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=1534
+
+#EXTINF:-1 tvg-id="Espn2.mx" tvg-name="MEX Espn 2 (SD)" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" group-title="DEPORTES",MEX Espn 2 (SD)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=26770
+
+#EXTINF:-1 tvg-id="ESPN3.mx" tvg-name="MEX ESPN 3 (720)1" tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png" group-title="DEPORTES",MEX ESPN 3 (720)1
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=1897
+
+#EXTINF:-1 tvg-id="ESPN3.mx" tvg-name="MEX Espn 3 (1080)" tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png" group-title="DEPORTES",MEX Espn 3 (1080)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=1536
+
+#EXTINF:-1 tvg-id="ESPN3.mx" tvg-name="MEX Espn 3 (SD)" tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png" group-title="DEPORTES",MEX Espn 3 (SD)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=26771
+
+#EXTINF:-1 tvg-id="ESPN3.mx" tvg-name="MEX Espn 3 (SD)" tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png" group-title="DEPORTES",MEX Espn 3 (SD)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=1537
+
+#EXTINF:-1 tvg-id="ESPNLatinAmericaNorth.pa" tvg-name="MEX ESPN U (1080)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="DEPORTES",MEX ESPN U (1080)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=26816
+
+#EXTINF:-1 tvg-id="FoxSports.mx" tvg-name="MEX Fox Sports (1080)1" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png" group-title="DEPORTES",MEX Fox Sports (1080)1
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=1903
+
+#EXTINF:-1 tvg-id="FoxSports.mx" tvg-name="MEX Fox Sports 1 (1080)" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png" group-title="DEPORTES",MEX Fox Sports 1 (1080)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=26814
+
+#EXTINF:-1 tvg-id="FoxSports.mx" tvg-name="MEX Fox Sports 1 (SD)" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png" group-title="DEPORTES",MEX Fox Sports 1 (SD)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=26769
+
+#EXTINF:-1 tvg-id="FoxSports.mx" tvg-name="MEX Fox Sports 1 (SD)" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png" group-title="DEPORTES",MEX Fox Sports 1 (SD)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=1519
+
+#EXTINF:-1 tvg-id="FoxSports2.mx" tvg-name="MEX Fox Sports 2 (720)1 " tvg-logo="https://1.bp.blogspot.com/-F55EXTlQLLM/Xay_ZKpzh-I/AAAAAAAAAkI/aj1P5U_FLxUX17xtYY5q-J8ujgfiaG1ZACLcBGAsYHQ/s200/2.png" group-title="DEPORTES",MEX Fox Sports 2 (720)1
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=1902
+
+#EXTINF:-1 tvg-id="FoxSports2.mx" tvg-name="MEX Fox Sports 2 (1080)" tvg-logo="https://1.bp.blogspot.com/-F55EXTlQLLM/Xay_ZKpzh-I/AAAAAAAAAkI/aj1P5U_FLxUX17xtYY5q-J8ujgfiaG1ZACLcBGAsYHQ/s200/2.png" group-title="DEPORTES",MEX Fox Sports 2 (1080)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=26815
+
+#EXTINF:-1 tvg-id="FoxSports2.mx" tvg-name="MEX Fox Sports 2 (1080)" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png" group-title="DEPORTES",MEX Fox Sports 2 (1080)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=1518
+
+#EXTINF:-1 tvg-id="FoxSports2.mx" tvg-name="MEX Fox Sports 2 (SD)" tvg-logo="https://1.bp.blogspot.com/-F55EXTlQLLM/Xay_ZKpzh-I/AAAAAAAAAkI/aj1P5U_FLxUX17xtYY5q-J8ujgfiaG1ZACLcBGAsYHQ/s200/2.png" group-title="DEPORTES",MEX Fox Sports 2 (SD)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=1521
+
+#EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="MEX Fox Sports 3 (1080)" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png" group-title="DEPORTES",MEX Fox Sports 3 (1080)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=26812
+
+#EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="MEX Fox Sports 3 (SD)" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png" group-title="DEPORTES",MEX Fox Sports 3 (SD)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=26768
+
+#EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="MEX Fox Sports 3 (SD)" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png" group-title="DEPORTES",MEX Fox Sports 3 (SD)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=1523
+
+#EXTINF:-1 tvg-id="GolfChannel.mx" tvg-name="MEX Golf Latin (1080)" tvg-logo="https://1.bp.blogspot.com/-bnHcR36sEwk/XmzurT8VcYI/AAAAAAAABac/WuIdPohEzLU9o2C4V0_UB2_CpO72CjfQACLcBGAsYHQ/s200/35.png" group-title="DEPORTES",MEX Golf Latin (1080)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=26813
+
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA U (720)" tvg-logo="https://1.bp.blogspot.com/-ri_Nr0yAHbc/XhA3NrtQMlI/AAAAAAAAA7g/POn3E9DM87w21_EvZWEi5D-YQCNLepdiACLcBGAsYHQ/s200/29.png" group-title="DEPORTES",NBA U (720)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=2873
+
+#EXTINF:-1 tvg-id="SkySports16.mx" tvg-name="Sky Sports PL (720)" tvg-logo="https://1.bp.blogspot.com/-RLh5FLdJhrY/X2j2zkoZV1I/AAAAAAAABZA/CSpzrOeYoAcKxcdbPgNAFsSXhaeirAD3wCLcBGAsYHQ/w200-h200/SKY.png" group-title="DEPORTES",Sky Sports PL (720)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=59427
+
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="Tennis Channel " tvg-logo="https://1.bp.blogspot.com/-UHbphuMzTLI/Xjb-ajdIv1I/AAAAAAAABA0/W2Dhehq7thsNNu92yKs9orPOD9LLYaddACLcBGAsYHQ/s200/34.png" group-title="DEPORTES",Tennis Channel 
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=23132
+
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN (1080)" tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png" group-title="DEPORTES",TUDN (1080)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=1548
+
+#EXTINF:-1 tvg-id="TVCDeportes.mx" tvg-name="TVC Deportes (SD)" tvg-logo="https://1.bp.blogspot.com/-fpt6Sm7APZ4/Xay_XGDKQ5I/AAAAAAAAAjw/--9czPX3msMJpPDjQcQx7FqDjyNMyPJfQCLcBGAsYHQ/s200/12.png" group-title="DEPORTES",TVC Deportes (SD)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=1547
+
+#EXTINF:-1 tvg-id="TYCSports.ar" tvg-name="TyC Sports Int (720)" tvg-logo="https://1.bp.blogspot.com/-clt7G_R4DNw/Xg-MJOM_YMI/AAAAAAAAA6A/ulOuWvu97K0QvGGyHNHcANUkSMGPeRLGQCLcBGAsYHQ/s200/23.png" group-title="DEPORTES",TyC Sports Int (720)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=27530
+
+#EXTINF:-1 tvg-id="" tvg-name="UFC (720) " tvg-logo="https://1.bp.blogspot.com/-T4uG5FYIDek/XhA6fXlKRQI/AAAAAAAAA8U/xRyQIitNaVsNGYmrK2TVTPJKiCITuGGoACLcBGAsYHQ/s200/32.png" group-title="DEPORTES",UFC (720)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=8918
+
+#EXTINF:-1 tvg-id="FightNetwork.ca" tvg-name="UFC Fight PASS (720)" tvg-logo="https://1.bp.blogspot.com/-T4uG5FYIDek/XhA6fXlKRQI/AAAAAAAAA8U/xRyQIitNaVsNGYmrK2TVTPJKiCITuGGoACLcBGAsYHQ/s200/32.png" group-title="DEPORTES",UFC Fight PASS (720)
+http://tvpremiumhd.club/lista-gratuita/180027/tv/live.php?id=5699
